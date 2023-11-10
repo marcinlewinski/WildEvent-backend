@@ -3,12 +3,17 @@
  Our project is already deployed, you can see it here: 
  
 
-  [BackofficeApp](http://wildeventmanager.com/) login: admin@wildeventmanager.com | password: WildEvent2023
+  [BackofficeApp](http://wildeventmanager.com/)  
+  
+**Admin account:**   
+**login:** `mgl4153@wp.pl`   
+**password:** `zxcvbnm123`     
+
 
 
 Here you can find other repository for this project: 
 
-  [Frontend Repository](https://github.com/CodecoolGlobal/epg-3-java-marcinlewinski)
+  [Frontend Repository](https://github.com/marcinlewinski/WildEvent-manager)
  
 
 ## 🌟 Project aim
