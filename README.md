@@ -1,19 +1,12 @@
 # WILD EVENT MANAGER - BACKEND
 
- Our project is already deployed, you can see it here: 
- 
-
-  [BackofficeApp](http://wildeventmanager.com/)  
+ Our project is already deployed, you can see it here: [BackofficeApp](http://wildeventmanager.com/)  
   
 **Admin account:**   
 **login:** `mgl4153@wp.pl`   
 **password:** `zxcvbnm123`     
 
-
-
-Here you can find other repository for this project: 
-
-  [Frontend Repository](https://github.com/marcinlewinski/WildEvent-manager)
+Here you can find other repository for this project: [Frontend Repository](https://github.com/marcinlewinski/WildEvent-manager)
  
 
 ## 🌟 Project aim
